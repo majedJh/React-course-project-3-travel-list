@@ -1,10 +1,12 @@
 # by MHD Majed Aljajeh:
 
+(Done following the tutorial in Jonas Schmidttmann react course on Udemy).
+
 This page is a travel list page, where the user can add the items that he wants to pack to the list, he can check the packed items, then the program shows the total number of the items, the number of packed items and the percentge. The user can also sort the list by input time, in alphabitical order or by packed and unpacked items.
 
 ## What I learned?
 
-I learned how to deal with states (when and where to use states, derived states, states up-lifting, local and total states). Also learned how to empty or sort the list, how immutability works in React and where and when to use props. 
+First full functional page I've done in React. I learned how to deal with states (when and where to use states, derived states, states up-lifting, local and total states). Also learned how to empty or sort the list, how immutability works in React and where and when to use props. 
 
 # Getting Started with Create React App
 
